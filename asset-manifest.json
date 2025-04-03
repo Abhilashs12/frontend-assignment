@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Abhilashs12/frontend-assignment/static/css/main.82a07c8b.css",
-    "main.js": "/Abhilashs12/frontend-assignment/static/js/main.f91db7c0.js",
-    "static/js/453.a1cecde2.chunk.js": "/Abhilashs12/frontend-assignment/static/js/453.a1cecde2.chunk.js",
-    "index.html": "/Abhilashs12/frontend-assignment/index.html",
-    "main.82a07c8b.css.map": "/Abhilashs12/frontend-assignment/static/css/main.82a07c8b.css.map",
-    "main.f91db7c0.js.map": "/Abhilashs12/frontend-assignment/static/js/main.f91db7c0.js.map",
-    "453.a1cecde2.chunk.js.map": "/Abhilashs12/frontend-assignment/static/js/453.a1cecde2.chunk.js.map"
+    "main.css": "/frontend-assignment/static/css/main.82a07c8b.css",
+    "main.js": "/frontend-assignment/static/js/main.161d27f7.js",
+    "static/js/453.a1cecde2.chunk.js": "/frontend-assignment/static/js/453.a1cecde2.chunk.js",
+    "index.html": "/frontend-assignment/index.html",
+    "main.82a07c8b.css.map": "/frontend-assignment/static/css/main.82a07c8b.css.map",
+    "main.161d27f7.js.map": "/frontend-assignment/static/js/main.161d27f7.js.map",
+    "453.a1cecde2.chunk.js.map": "/frontend-assignment/static/js/453.a1cecde2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.82a07c8b.css",
-    "static/js/main.f91db7c0.js"
+    "static/js/main.161d27f7.js"
   ]
 }
